@@ -1,0 +1,13 @@
+{
+    "name": "jest-integrate-spirateam",
+    "author": {
+        "name": "rick hou",
+        "email": "hobe2000@126.com"
+    },
+    "version": "0.1.0",
+    "main": "./SpiraTeamReporter.js",
+    "license": "MIT",
+    "repository": {
+        "type": "git"
+    }
+}
